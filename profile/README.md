@@ -1,20 +1,20 @@
-# Mind Court
+![Mind Court](./assets/banner.svg)
 
-Tennis coaching and mental game — built for coaches and the players they work with.
+Tennis coaching and the mental game — for the coaches who run practices and the players who play matches.
 
-Mind Court helps coaches run better practices and gives players the tools to compete with more confidence. Session notes, lesson planning, pre-match routines, mental-game drills — the connective tissue between sessions.
+A coach's job doesn't end when the lesson does. Mind Court is the thread between sessions: lesson plans, session notes, pre-match routines, mental-game drills.
 
-## What we're building
+## Repositories
 
-- **Mobile app** for players and coaches — [mind-court/mind-court](https://github.com/mind-court/mind-court)
-- **Design system** — [mind-court/mind-court-design-system](https://github.com/mind-court/mind-court-design-system)
-- **Web dashboard** for lesson planning and progress tracking *(in progress)*
-- **Marketing site** *(in progress)*
+- **[mind-court](https://github.com/mind-court/mind-court)** — mobile app for coaches and players, iOS and Android
+- **mind-court-design-system** — design tokens, components, brand *(private)*
+- Web dashboard for lesson planning *(in progress)*
+- Marketing site *(in progress)*
 
 ## Status
 
 Pre-launch. Coach side first, player side follows.
 
----
+—
 
-Contact: **bensmith0124@gmail.com**
+[bensmith0124@gmail.com](mailto:bensmith0124@gmail.com)
